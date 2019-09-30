@@ -1,5 +1,8 @@
 _repo: L-invasore-dramma-in-tre-atti_60336
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60336-h/images/cover.jpg
 creator:
   author:
     agent_name: Vivanti, Annie
@@ -14,6 +17,8 @@ creator:
     - https://it.wikipedia.org/wiki/Annie_Vivanti
     - https://en.wikipedia.org/wiki/Annie_Vivanti
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60336#L-invasore-dramma-in-tre-atti
 gutenberg_issued: '2019-09-21'
 gutenberg_type: Text
 identifiers:
